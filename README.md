@@ -1,12 +1,12 @@
 # Prism Vault AI
 
-A curated, searchable directory of 500 AI tools — spanning chat assistants, coding, image, video, voice, design, productivity, business, and more — presented as an airport-departures-style board.
+A curated, searchable directory of 500+ AI tools — spanning chat assistants, coding, image, video, voice, design, productivity, business, and more — presented as an airport-departures-style board.
 
 **Live site:** [prismvaultai.netlify.app](https://prismvaultai.netlify.app)
 
 ## Features
 
-- 🔍 **Instant search** across all 500 tools by name or purpose
+- 🔍 **Instant search** across 500+ tools by name or purpose
 - 🗂️ **9 terminals / 40+ categories** — Chat & Research, Coding & Dev, Creative Media, Design & Productivity, Business & Ops, Specialized, and more
 - 🌗 **Light / dark theme** toggle
 - 📥 **Downloadable** as a standalone HTML page
